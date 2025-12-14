@@ -46,14 +46,6 @@ class MainActivity : AppCompatActivity() {
     private lateinit var seekSpeed: SeekBar
     private lateinit var btnSendSpeed: Button
     private lateinit var txtSpeedValue: TextView
-    private lateinit var btnColor0: Button
-    private lateinit var btnColor1: Button
-    private lateinit var btnColor2: Button
-    private lateinit var btnColor3: Button
-    private lateinit var btnColor4: Button
-    private lateinit var btnColor5: Button
-    private lateinit var btnColor6: Button
-    private lateinit var btnColor7: Button
     private lateinit var btnModeStatic: Button
     private lateinit var btnModeRainbow: Button
     private lateinit var btnModeMulti: Button
